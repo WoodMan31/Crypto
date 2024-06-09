@@ -1,0 +1,13 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 18%;
+
+    text-align: center;
+}
+
+.card .h3 {
+    margin: 32px 0 18px;
+}

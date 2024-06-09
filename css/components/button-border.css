@@ -1,0 +1,23 @@
+.button-border {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    padding: 0 32px;
+    width: 160px;
+    height: 38px;
+
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 4px;
+
+    cursor: pointer;
+}
+
+.button-border:hover {
+    background-color: #d1d1d1;
+}
+
+.button-border:active {
+    background-color: #a5a5a5;
+}

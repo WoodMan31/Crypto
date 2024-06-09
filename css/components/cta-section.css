@@ -1,0 +1,24 @@
+.cta-section {
+    display: flex;
+    align-items: center;
+    
+    width: 100%;
+
+    gap: 150px;
+}
+
+        
+.cta-section img {
+    height: 536px;
+    width: 293px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cta-section {
+        justify-content: center;
+    }
+
+    .cta-section img {
+        display: none;
+    }
+}

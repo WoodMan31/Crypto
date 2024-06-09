@@ -1,0 +1,20 @@
+.date {
+    display: flex;
+    align-items: center;
+    
+    gap: 16px;
+
+    font-size: 12px;
+}
+
+.date p:nth-child(1) {
+    padding: 8px;
+
+    background-color: #BDFFEB;
+}
+
+@media screen and (max-width: 1024px) {
+    .date {
+        font-size: 18px;
+    }
+}

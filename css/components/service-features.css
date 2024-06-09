@@ -1,0 +1,17 @@
+.service-features {
+    display: flex;
+    flex-direction: column;
+
+    gap: 64px;
+
+    width: 70%;
+}
+
+@media screen and (max-width: 1024px) {
+    .service-features {
+        align-items: center;
+    
+        width: 100%;
+    }
+    
+}

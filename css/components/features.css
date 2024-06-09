@@ -1,0 +1,16 @@
+.features {
+    display: flex;
+    align-items: center;
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    .features {
+        justify-content: center;
+    }
+
+    .features>img {
+        display: none;
+    }
+}

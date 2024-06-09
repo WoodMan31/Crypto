@@ -1,0 +1,14 @@
+.service-cards {
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+    .service-cards {
+        justify-content: center;
+    }
+
+   
+} 

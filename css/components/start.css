@@ -1,0 +1,10 @@
+.start {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.start .cards {
+    margin: 102px 0 50px;
+}

@@ -1,0 +1,10 @@
+.service-card {
+
+    width: 35%;
+
+    margin: 30px 40px 0 0;
+}
+
+.service-card p:nth-child(2) {
+    margin: 8px 0 18px;
+}

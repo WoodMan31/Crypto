@@ -1,0 +1,15 @@
+.crypto-intro {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.crypto-intro .h3 {
+    margin: 26px 0 38px;
+}
+
+@media screen and (max-width: 1024px) { 
+    .crypto-intro {
+        width: 100%;
+    }
+}

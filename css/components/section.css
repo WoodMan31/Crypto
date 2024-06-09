@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px) {
+    .section {
+        margin-bottom: 120px;
+    }
+}
+    
+@media screen and (max-width: 768px) {
+    .section {
+        margin-bottom: 80px;
+    }
+}
+    
+@media screen and (max-width: 480px) {
+    .section {
+        margin-bottom: 60px;
+    }
+}
+
+.section {
+    margin-bottom: 160px;
+}

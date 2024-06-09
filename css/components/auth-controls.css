@@ -1,0 +1,23 @@
+.auth-controls {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+    gap: 8px;
+
+    width: 15%;
+}
+
+.log {
+    width: 80px;
+    padding: 0 17px;
+
+    font-size: 12px;
+}
+
+.sign {
+    width: 80px;
+    padding: 0 17px;
+
+    font-size: 12px;
+}

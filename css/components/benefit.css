@@ -1,0 +1,13 @@
+.benefit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 8px;
+
+    cursor: pointer;
+}
+
+.benefit:hover {
+    color: #5d5d62;
+}
