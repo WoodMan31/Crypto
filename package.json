@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WoodMan31/Crypto/issues"
   },
-  "homepage": "https://github.com/WoodMan31/Crypto#readme"
+  "homepage": "https://github.com/WoodMan31/Crypto#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
